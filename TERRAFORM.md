@@ -467,4 +467,3 @@ terraform apply
 		 
 		
 		
-![image](https://github.com/NareshNarayanadasu/AJA-Basics/assets/101800735/c6df69ca-2f5f-4476-8389-4c6ffc163892)
