@@ -303,7 +303,7 @@ Here are explanations of various commands you mentioned with some refinements fo
 
 Here is your content converted into Markdown (`.md`) format:
 
-```markdown
+
 ### Bytes in ASCII vs Non-ASCII Charsets
 
 Bytes in ASCII charsets equate to characters. But with non-ASCII charsets, the number of characters might differ because some characters might take multiple bytes (for example, this happens in Unicode).
@@ -495,13 +495,12 @@ grep -l "unix" *
 grep -l "unix" f1.txt f2.txt f3.txt f4.txt
 ```
 
-```
 
 ---
 
 Here is the content you provided converted into a markdown format:
 
-```markdown
+
 # Linux Commands
 
 ## `du` (Disk Utility)
@@ -631,8 +630,6 @@ The `jobs` command shows background jobs.
 ---
 
 These commands are essential in managing disk space, processes, and file compression in Linux.
-```
-
 ### **1. Gunzip:**
 - **Purpose:** Uncompresses `.gz` files (equivalent to `gzip -d`).
 - **Basic Syntax:**
